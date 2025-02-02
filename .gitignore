@@ -1,2 +1,7 @@
 __pycache__
 *.pyc
+.DS_Store
+
+# (hacky) don't include the outputs of the simulation
+*.png
+*.json
